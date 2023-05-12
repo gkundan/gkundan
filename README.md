@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 Currently, I am sharpening my skills in Full Stack Development with Coding Ninjas <br>🌱 I am loving every moment of it. With each passing day, I am getting closer to my goal of becoming a top-notch developer.<br><br>👨‍💻 All of my projects are available on GitHub<br><br>💬 Ask me about React JS, Node Js<br><br>📫 How to reach me gkundan525@gmail.com<br><br>⚡ Fun fact I don't Have a Lot Of Jokes😁
+🙋‍♂️ Hi I'm Kundan Gupta.
+🌱 Currently, I am sharpening my skills in Full Stack Development with Coding Ninjas <br> I am loving every moment of it. With each passing day, I am getting closer to my goal of becoming a top-notch developer.<br><br>👨‍💻 All of my projects are available on GitHub<br><br>💬 Ask me about React JS, Node Js<br><br>📫 How to reach me gkundan525@gmail.com<br><br>⚡ Fun fact I don't Have a Lot Of Jokes😁
 
 
 ## 🌐 Socials:
